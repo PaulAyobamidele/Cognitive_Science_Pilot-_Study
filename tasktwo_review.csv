@@ -1,0 +1,50 @@
+StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,consent,group,label,agora_communication_1,agora_innovation_1
+Start Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,User Language,"CONSENT FORM 
+
+
+TASK: CREATING NEW UM6P LOGO
+
+Introduction:
+You are invited to participate in a research study designed to explore the impact of group composition on creativity and communication. Before deciding to participate, it is important for you to understand the nature of the study, its purpose, procedures, potential risks, and benefits.
+
+Purpose of the Study:
+The purpose of this study is to investigate how different group compositions influence participants' experiences in terms of creativity (innovation) and communication and expression within the group setting.
+
+Risks and Benefits:
+There are minimal risks associated with this study, such as potential discomfort from sharing personal opinions. However, the benefits include contributing valuable information to the understanding of group dynamics, creativity, and communication.
+
+Confidentiality:
+Your identity will be kept confidential to the extent permitted by law. Data will be anonymized, and any information that could identify you will be removed from the research findings.
+
+Voluntary Participation:
+Participation in this study is entirely voluntary. You may withdraw at any time without penalty. Your decision will not affect your relationship with the researchers or your institution.
+
+
+Informed Consent:
+By agreeing to participate, you acknowledge that you have read this consent form, had an opportunity to ask questions, and received satisfactory answers. Your consent is voluntary, and you may withdraw at any time without consequence.",What group did you belong to for this task?,Indicate your label carefully (Check your sticky note e.g M1 or F1),"Ease of Communication
+
+
+On a scale of 1 to 7, where 1 represents dissatisfaction and 7 signifies utmost satisfaction, kindly rate your experience within your group in terms of the ease of communication and the extent of freedom of expression. - communication_satisfaction","Level of Innovation
+
+
+On a scale of 1 to 7, where 1 represents utmost difficulty and 7 signifies utmost ease, kindly rate your experience within your group in terms of the level of innovation - innovation_level"
+"{""ImportId"":""startDate"",""timeZone"":""Europe/Berlin""}","{""ImportId"":""endDate"",""timeZone"":""Europe/Berlin""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""Europe/Berlin""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""QID1""}","{""ImportId"":""QID6""}","{""ImportId"":""QID5_TEXT""}","{""ImportId"":""QID3_1""}","{""ImportId"":""QID4_1""}"
+2024-01-20 16:23:25,2024-01-20 16:23:40,IP Address,197.230.97.174,100,14,True,2024-01-20 16:23:40,R_2gRYVAd1dNFK1t2,,,,,34.0663,-6.817,anonymous,EN,I agree,GRP 3,M1,7,7
+2024-01-20 16:23:24,2024-01-20 16:24:01,IP Address,197.230.97.174,100,36,True,2024-01-20 16:24:01,R_2HuKI5otBsKrSGR,,,,,34.0663,-6.817,anonymous,EN,I agree,GRP 3,M2,7,7
+2024-01-20 16:23:38,2024-01-20 16:24:08,IP Address,197.230.97.174,100,30,True,2024-01-20 16:24:09,R_2uyXxxxZDzybRYa,,,,,34.0663,-6.817,anonymous,EN,I agree,GRP 1,,2,2
+2024-01-20 16:23:56,2024-01-20 16:24:20,IP Address,197.230.97.174,100,24,True,2024-01-20 16:24:20,R_4NDsEp2sMQWRb4f,,,,,34.0663,-6.817,anonymous,EN,I agree,GRP 3,M8,7,7
+2024-01-20 16:23:34,2024-01-20 16:24:21,IP Address,160.164.114.247,100,46,True,2024-01-20 16:24:21,R_2RP82J6VMDyu8yZ,,,,,34.0072,-6.8407,anonymous,EN,I agree,,F4,7,5
+2024-01-20 16:23:20,2024-01-20 16:24:22,IP Address,197.230.97.174,100,61,True,2024-01-20 16:24:22,R_2rTHW7c7o1OgTtj,,,,,34.0663,-6.817,anonymous,EN,I agree,GRP 3,,7,7
+2024-01-20 16:23:55,2024-01-20 16:24:38,IP Address,197.230.97.174,100,42,True,2024-01-20 16:24:38,R_8iRlWrWzEmgAxTk,,,,,34.0663,-6.817,anonymous,EN,I agree,GRP 1,,6,6
+2024-01-20 16:24:14,2024-01-20 16:24:45,IP Address,197.230.97.174,100,31,True,2024-01-20 16:24:46,R_8Llp5s2NM1GP4Fr,,,,,34.0663,-6.817,anonymous,EN,I agree,GRP 2,F5,7,7
+2024-01-20 16:23:59,2024-01-20 16:24:45,IP Address,197.230.97.174,100,45,True,2024-01-20 16:24:46,R_84C6bMCYKvQpXAo,,,,,34.0663,-6.817,anonymous,EN,I agree,GRP 3,F7,6,6
+2024-01-20 16:24:20,2024-01-20 16:24:48,IP Address,197.230.97.174,100,27,True,2024-01-20 16:24:48,R_88CgpfPOUDWbCOr,,,,,34.0663,-6.817,anonymous,EN,I agree,GRP 2,F2,5,6
+2024-01-20 16:23:46,2024-01-20 16:24:56,IP Address,197.230.97.174,100,69,True,2024-01-20 16:24:56,R_8ApgjD1fbWZT4ul,,,,,34.0663,-6.817,anonymous,EN,I agree,GRP 1,F3,5,5
+2024-01-20 16:23:47,2024-01-20 16:24:56,IP Address,197.230.97.174,100,68,True,2024-01-20 16:24:56,R_8k6zQtGAt9beuIP,,,,,34.0663,-6.817,anonymous,EN,I agree,GRP 3,M9,7,6
+2024-01-20 16:24:07,2024-01-20 16:25:04,IP Address,197.230.97.174,100,57,True,2024-01-20 16:25:04,R_8KNP0RVuDlt1F86,,,,,34.0663,-6.817,anonymous,EN,I agree,,M5,6,6
+2024-01-20 16:24:50,2024-01-20 16:25:47,IP Address,197.230.97.174,100,56,True,2024-01-20 16:25:48,R_1ExVZC7oj28imdw,,,,,34.0663,-6.817,anonymous,EN,I agree,GRP 1,F9,7,6
+2024-01-20 16:25:05,2024-01-20 16:26:32,IP Address,197.230.97.174,100,86,True,2024-01-20 16:26:32,R_2isASMVDLCb0m2P,,,,,34.0663,-6.817,anonymous,EN,I agree,GRP 2,,7,7
+2024-01-20 16:25:57,2024-01-20 16:26:38,IP Address,104.28.88.48,100,41,True,2024-01-20 16:26:39,R_2GCCKCB8o8t2Uai,,,,,33.5792,-7.6133,anonymous,EN,I agree,GRP 2,F11,6,6
+2024-01-20 16:24:39,2024-01-20 16:27:13,IP Address,197.230.97.174,100,153,True,2024-01-20 16:27:13,R_1tPWP0Fur3d6yNr,,,,,34.0663,-6.817,anonymous,EN,I agree,GRP 2,M7,,
+2024-01-20 16:23:47,2024-01-20 16:27:20,IP Address,102.77.249.47,100,212,True,2024-01-20 16:27:20,R_8h78CGPRz4lIsyB,,,,,34.0072,-6.8407,anonymous,EN,I agree,GRP 1,M3,6,6
+2024-01-20 16:24:58,2024-01-20 16:27:27,IP Address,197.230.97.174,100,148,True,2024-01-20 16:27:27,R_1e3byTmxNTW3kVJ,,,,,34.0663,-6.817,anonymous,EN,I agree,GRP 2,F1,7,7

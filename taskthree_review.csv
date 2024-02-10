@@ -1,0 +1,41 @@
+StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,consent,label,group,logo_communication_1,Q3_1
+Start Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,User Language,"CONSENT FORM 
+
+
+TASK: REIMAGINING AGORA SPACE
+
+Introduction: You are invited to participate in a research study designed to explore the impact of group composition on creativity and communication. Before deciding to participate, it is important for you to understand the nature of the study, its purpose, procedures, potential risks, and benefits.
+
+Purpose of the Study: The purpose of this study is to investigate how different group compositions influence participants' experiences in terms of creativity (innovation) and communication and expression within the group setting.
+
+Risks and Benefits: There are minimal risks associated with this study, such as potential discomfort from sharing personal opinions. However, the benefits include contributing valuable information to the understanding of group dynamics, creativity, and communication.
+
+Confidentiality: Your identity will be kept confidential to the extent permitted by law. Data will be anonymized, and any information that could identify you will be removed from the research findings.
+
+Voluntary Participation: Participation in this study is entirely voluntary. You may withdraw at any time without penalty. Your decision will not affect your relationship with the researchers or your institution.
+
+Informed Consent: By agreeing to participate, you acknowledge that you have read this consent form, had an opportunity to ask questions, and received satisfactory answers. Your consent is voluntary, and you may withdraw at any time without consequence.",Indicate your label carefully (Check your sticky note e.g M1 or F1),What group did you belong to for this task?,"Ease of Communication
+
+On a scale of 1 to 7, where 1 represents dissatisfaction and 7 signifies utmost satisfaction, kindly rate your experience within your group in terms of the ease of communication and the extent of freedom of expression. - logo_communication","Level of Innovation
+
+On a scale of 1 to 7, where 1 represents utmost difficulty and 7 signifies utmost ease, kindly rate your experience within your group in terms of the level of innovation - logo_innovation"
+"{""ImportId"":""startDate"",""timeZone"":""Europe/Berlin""}","{""ImportId"":""endDate"",""timeZone"":""Europe/Berlin""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""Europe/Berlin""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""QID1""}","{""ImportId"":""QID5_TEXT""}","{""ImportId"":""QID6""}","{""ImportId"":""QID2_1""}","{""ImportId"":""QID3_1""}"
+2024-01-20 13:50:34,2024-01-20 13:53:14,1,,100,159,1,2024-01-20 13:53:15,R_2XonZAjSp68R0TO,,,,,34.0663,-6.817,preview,EN,,,,,
+2024-01-20 16:03:00,2024-01-20 16:03:22,0,197.230.97.174,100,21,1,2024-01-20 16:03:22,R_8m98UqwyaP8uyiv,,,,,34.0663,-6.817,anonymous,EN,1,,3,6,6
+2024-01-20 16:03:07,2024-01-20 16:03:32,0,197.230.97.174,100,25,1,2024-01-20 16:03:33,R_2amowhd92UBudee,,,,,34.0663,-6.817,anonymous,EN,1,F1,3,6,6
+2024-01-20 16:03:09,2024-01-20 16:03:32,0,104.28.88.47,100,23,1,2024-01-20 16:03:33,R_2hMRg7a2ecWxD6Z,,,,,33.5792,-7.6133,anonymous,EN,1,F11,1,7,7
+2024-01-20 16:03:13,2024-01-20 16:03:33,0,197.230.97.174,100,19,1,2024-01-20 16:03:33,R_2DXZNJ0TzYMQ9c3,,,,,34.0663,-6.817,anonymous,EN,1,M1,1,6,6
+2024-01-20 16:03:09,2024-01-20 16:03:36,0,197.230.97.174,100,26,1,2024-01-20 16:03:36,R_272NcBG9aTpk6dP,,,,,34.0663,-6.817,anonymous,EN,1,,1,6,6
+2024-01-20 16:03:16,2024-01-20 16:03:40,0,197.230.97.174,100,24,1,2024-01-20 16:03:40,R_815isZ9dCKKcCtY,,,,,34.0663,-6.817,anonymous,EN,1,F2,1,6,7
+2024-01-20 16:03:09,2024-01-20 16:03:41,0,197.230.97.174,100,32,1,2024-01-20 16:03:42,R_8BWQCWzhjynoXIR,,,,,34.0663,-6.817,anonymous,EN,1,F7,1,5,6
+2024-01-20 16:03:09,2024-01-20 16:03:47,0,102.77.249.47,100,37,1,2024-01-20 16:03:47,R_4JaemteWf0ZozFT,,,,,34.0072,-6.8407,anonymous,EN,1,M3,3,7,7
+2024-01-20 16:03:16,2024-01-20 16:03:58,0,197.230.97.174,100,41,1,2024-01-20 16:03:59,R_2KfIYEmAFLZ3Zhm,,,,,34.0663,-6.817,anonymous,EN,1,M7,1,5,4
+2024-01-20 16:03:24,2024-01-20 16:04:03,0,197.230.97.174,100,38,1,2024-01-20 16:04:04,R_2cr5W2jcRCtzL2h,,,,,34.0663,-6.817,anonymous,EN,1,F9,2,7,6
+2024-01-20 16:03:16,2024-01-20 16:04:11,0,197.230.97.174,100,55,1,2024-01-20 16:04:12,R_2Y3cVj0U1VQ9zKt,,,,,34.0663,-6.817,anonymous,EN,1,M2,1,6,6
+2024-01-20 16:03:40,2024-01-20 16:04:23,0,197.230.97.174,100,42,1,2024-01-20 16:04:23,R_63joAyXnOrnTpum,,,,,34.0663,-6.817,anonymous,EN,1,,2,5,5
+2024-01-20 16:03:17,2024-01-20 16:04:23,0,160.164.114.247,100,66,1,2024-01-20 16:04:24,R_2q4y1vbSQfZgrFH,,,,,34.0072,-6.8407,anonymous,EN,1,F4,1,7,6
+2024-01-20 16:03:57,2024-01-20 16:04:32,0,197.230.97.174,100,34,1,2024-01-20 16:04:33,R_4WDyf6XaiWeTAsc,,,,,34.0663,-6.817,anonymous,EN,1,F3,2,7,
+2024-01-20 16:04:16,2024-01-20 16:04:44,0,197.230.97.174,100,28,1,2024-01-20 16:04:45,R_4oLRewpMFMJN5Vw,,,,,34.0663,-6.817,anonymous,EN,1,,3,7,7
+2024-01-20 16:03:51,2024-01-20 16:04:45,0,197.230.97.174,100,53,1,2024-01-20 16:04:45,R_6Osrll4WosUxVjb,,,,,34.0663,-6.817,anonymous,EN,1,F6,2,6,6
+2024-01-20 16:05:13,2024-01-20 16:06:09,0,197.230.97.174,100,55,1,2024-01-20 16:06:09,R_2Y9aEGO65mYJWEy,,,,,34.0663,-6.817,anonymous,EN,1,,2,7,6
+2024-01-20 16:05:15,2024-01-20 16:11:26,0,197.230.97.174,100,370,1,2024-01-20 16:11:26,R_4DcnB3tujeJn8wL,,,,,34.0663,-6.817,anonymous,EN,1,M8,2,7,7

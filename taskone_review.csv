@@ -1,0 +1,55 @@
+StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,Consent,group,label,password_communi_1,password_innovation_1
+Start Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,User Language,"CONSENT FORM
+
+TASK: CREATING A PASSWORD PATTERN
+
+
+Introduction:
+You are invited to participate in a research study designed to explore the impact of group composition on creativity and communication. Before deciding to participate, it is important for you to understand the nature of the study, its purpose, procedures, potential risks, and benefits.
+
+Purpose of the Study:
+The purpose of this study is to investigate how different group compositions influence participants' experiences in terms of creativity (innovation) and communication and expression within the group setting.
+
+Risks and Benefits:
+There are minimal risks associated with this study, such as potential discomfort from sharing personal opinions. However, the benefits include contributing valuable information to the understanding of group dynamics, creativity, and communication.
+
+Confidentiality:
+Your identity will be kept confidential to the extent permitted by law. Data will be anonymized, and any information that could identify you will be removed from the research findings.
+
+Voluntary Participation:
+Participation in this study is entirely voluntary. You may withdraw at any time without penalty. Your decision will not affect your relationship with the researchers or your institution.
+
+Informed Consent:
+By agreeing to participate, you acknowledge that you have read this consent form, had an opportunity to ask questions, and received satisfactory answers. Your consent is voluntary, and you may withdraw at any time without consequence.",What group did you belong to for this task?,Indicate your label carefully (Check your sticky note e.g M1 or F1),"Ease of Communication
+
+
+On a scale of 1 to 7, where 1 represents dissatisfaction and 7 signifies utmost satisfaction, kindly rate your experience within your group in terms of the ease of communication and the extent of freedom of expression. - communication_satisfaction","Level of Innovation
+
+
+On a scale of 1 to 7, where 1 represents utmost difficulty and 7 signifies utmost ease, kindly rate your experience within your group in terms of the level of innovation - innovation_level"
+"{""ImportId"":""startDate"",""timeZone"":""Europe/Berlin""}","{""ImportId"":""endDate"",""timeZone"":""Europe/Berlin""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""Europe/Berlin""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""QID2""}","{""ImportId"":""QID11""}","{""ImportId"":""QID10_TEXT""}","{""ImportId"":""QID3_1""}","{""ImportId"":""QID4_1""}"
+2024-01-20 13:49:50,2024-01-20 13:50:19,1,,100,29,1,2024-01-20 13:50:20,R_2jOP8KWY7Nn8Zgn,,,,,34.0663,-6.817,preview,EN,,,,,
+2024-01-20 13:57:47,2024-01-20 13:58:12,1,,100,24,1,2024-01-20 13:58:12,R_2oaNuiZg3G7166u,,,,,34.0663,-6.817,preview,EN,,,,,
+2024-01-20 15:43:08,2024-01-20 15:43:45,0,197.230.97.174,100,36,1,2024-01-20 15:43:46,R_1C7i6oGrbVwOGOJ,,,,,34.0663,-6.817,anonymous,EN,1,1,F1,7,7
+2024-01-20 15:43:20,2024-01-20 15:43:52,0,104.28.88.49,100,32,1,2024-01-20 15:43:53,R_7AG7k0x3idS54iY,,,,,33.5792,-7.6133,anonymous,EN,1,3,F11,6,7
+2024-01-20 15:43:13,2024-01-20 15:43:52,0,197.230.97.174,100,39,1,2024-01-20 15:43:53,R_6qs6uS8Ao42jOYF,,,,,34.0663,-6.817,anonymous,EN,1,1,F2,7,7
+2024-01-20 15:43:20,2024-01-20 15:44:10,0,197.230.97.174,100,49,1,2024-01-20 15:44:10,R_7P0BCgAHkNikZMd,,,,,34.0663,-6.817,anonymous,EN,1,3,M9,7,7
+2024-01-20 15:43:09,2024-01-20 15:44:24,0,197.230.97.174,100,75,1,2024-01-20 15:44:25,R_5eORLkpi1MUrdeX,,,,,34.0663,-6.817,anonymous,EN,1,1,F10,7,7
+2024-01-20 15:43:17,2024-01-20 15:44:37,0,197.230.97.174,100,80,1,2024-01-20 15:44:38,R_7xX7mhqbC5yAzeN,,,,,34.0663,-6.817,anonymous,EN,1,1,M1,5,5
+2024-01-20 15:43:30,2024-01-20 15:44:42,0,197.230.97.174,100,72,1,2024-01-20 15:44:43,R_43dvhuOCRHxkDr3,,,,,34.0663,-6.817,anonymous,EN,1,3,M8,7,7
+2024-01-20 15:43:17,2024-01-20 15:44:44,0,197.230.97.174,100,87,1,2024-01-20 15:44:44,R_7o7OPEV2RC40XKl,,,,,34.0663,-6.817,anonymous,EN,1,1,M2,7,7
+2024-01-20 15:43:30,2024-01-20 15:44:51,0,197.230.97.174,100,81,1,2024-01-20 15:44:51,R_3lNQYQas0WrJdpT,,,,,34.0663,-6.817,anonymous,EN,1,3,F8,7,6
+2024-01-20 15:43:16,2024-01-20 15:45:03,0,197.230.97.174,100,107,1,2024-01-20 15:45:03,R_7LjpxeEngtoeHWb,,,,,34.0663,-6.817,anonymous,EN,1,3,F9,7,7
+2024-01-20 15:43:21,2024-01-20 15:45:25,0,197.230.97.174,100,123,1,2024-01-20 15:45:25,R_7fvmi5wkr70MJmp,,,,,34.0663,-6.817,anonymous,EN,1,2,F5,7,7
+2024-01-20 15:43:39,2024-01-20 15:45:29,0,160.164.114.247,100,109,1,2024-01-20 15:45:30,R_7p69AELZ2Tfkiw1,,,,,34.0072,-6.8407,anonymous,EN,1,2,F4,7,6
+2024-01-20 15:43:49,2024-01-20 15:45:35,0,197.230.97.174,100,106,1,2024-01-20 15:45:36,R_5MaFaMjWmyDt3mw,,,,,34.0663,-6.817,anonymous,EN,1,2,F7,7,7
+2024-01-20 15:43:17,2024-01-20 15:45:37,0,102.77.249.47,100,139,1,2024-01-20 15:45:37,R_2k5BozNdDeuIoh3,,,,,34.0072,-6.8407,anonymous,EN,1,1,M3,7,7
+2024-01-20 15:43:42,2024-01-20 15:45:44,0,197.230.97.174,100,121,1,2024-01-20 15:45:44,R_6DTROFNI63WYnHd,,,,,34.0663,-6.817,anonymous,EN,1,3,M6,7,7
+2024-01-20 15:44:02,2024-01-20 15:45:47,0,197.230.97.174,100,105,1,2024-01-20 15:45:48,R_5BqRe9gOr40IJLE,,,,,34.0663,-6.817,anonymous,EN,1,2,F6,7,7
+2024-01-20 15:43:55,2024-01-20 15:45:54,0,197.230.97.174,100,118,1,2024-01-20 15:45:54,R_7tybA6dpMYhfvG8,,,,,34.0663,-6.817,anonymous,EN,1,2,,7,3
+2024-01-20 15:44:10,2024-01-20 15:46:02,0,197.230.97.174,100,112,1,2024-01-20 15:46:03,R_6kdBqW9ocQrbauZ,,,,,34.0663,-6.817,anonymous,EN,1,3,M7,3,3
+2024-01-20 15:45:09,2024-01-20 15:46:10,0,197.230.97.174,100,61,1,2024-01-20 15:46:11,R_4nNvTRlyQ2xR9Ei,,,,,34.0663,-6.817,anonymous,EN,1,,M5,7,6
+2024-01-20 16:03:08,2024-01-20 16:03:41,0,197.230.97.174,100,32,1,2024-01-20 16:03:41,R_8ijSBCVHupwMU13,,,,,34.0663,-6.817,anonymous,EN,1,3,F8,7,6
+2024-01-20 16:25:29,2024-01-20 16:26:49,0,197.230.97.174,100,79,1,2024-01-20 16:26:49,R_2cmbka1uWJn3X9L,,,,,34.0663,-6.817,anonymous,EN,1,2,F8,7,7
+2024-01-20 16:27:47,2024-01-20 16:29:48,0,197.230.97.174,100,121,1,2024-01-20 16:29:49,R_1uaOyWNrsjXMakN,,,,,34.0663,-6.817,anonymous,EN,1,3,F8,6,7
+2024-01-20 15:44:49,2024-01-20 15:45:52,0,197.230.97.174,60,62,0,2024-01-27 15:45:58,R_1Ys0Q6rBk5sqdzR,,,,,,,anonymous,EN,1,3,F3,,
